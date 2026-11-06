@@ -1,0 +1,4 @@
+item_code,item_name,valid_lot_units,valid_requests,requested_units,allocated_units,unfilled_units,remaining_units
+BEANS,Low-sodium beans,90,2,100,90,10,0
+OATS,Rolled oats,50,1,30,30,0,20
+SOUP,Vegetable soup,25,1,30,25,5,0

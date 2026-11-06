@@ -1,0 +1,7 @@
+queue_rank,request_id,item_code,lot_id,allocated_units,request_decision
+1,R-04,SOUP,L-09,25,PARTIAL
+2,R-01,BEANS,L-02,30,FILLED
+2,R-01,BEANS,L-01,20,FILLED
+3,R-03,OATS,L-03,30,FILLED
+4,R-02,BEANS,L-01,20,PARTIAL
+4,R-02,BEANS,L-10,20,PARTIAL
